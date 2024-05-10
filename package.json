@@ -1,0 +1,8 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AutoSleep/git-test.git",
+  "author": "AutoSleep <64410808+AutoSleep@users.noreply.github.com>",
+  "license": "MIT"
+}
